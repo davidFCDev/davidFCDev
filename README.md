@@ -1,5 +1,5 @@
 <h1 align="center">Hola, mi nombre es David Fernández Comesaña</h1>
-<h3 align="center">Un desarrollador FrontEnd de España</h3>
+<h3 align="center">Desarrollador FrontEnd de España</h3>
 
 - Actualmente me encuentro centrado en **Javascript y ReactJS**
 
