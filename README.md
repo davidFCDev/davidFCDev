@@ -5,7 +5,7 @@
 
 - Puedes preguntarme acerca de **HTML, CSS, SCSS, Javascript, ReactJS**
 
-- Puedes encontrarme en **[Mi portfolio](https://davidfcdev.github.io/mi-portfolio/)**
+- Puedes encontrarme en **[Mi portfolio](https://davidfcdev.github.io/mi-portafolio-personal/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
