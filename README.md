@@ -7,7 +7,7 @@
 
 - You can find me on **davidfernandezcomesana@gmail.com**
 
-- My personal portfolio [https://davidfcdev.github.io/mi-portafolio-personal/](https://mi-virtual-folio.netlify.app/)
+- My personal portfolio [Virtual-folio](https://mi-virtual-folio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
