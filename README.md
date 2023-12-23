@@ -1,5 +1,7 @@
 <h1 align="center">Hola, soy David Fernández Comesaña</h1>
 <h3 align="center">Desarrollador FullStack en España</h3>
+<br />
+<br />
 
 - Actualmente me encuentro centrado en **Java, Spring Boot, React JS, Angular, Javascript y Typescript**
 
