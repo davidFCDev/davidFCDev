@@ -1,4 +1,5 @@
 <h3 align="center">Desarrollador FullStack en España</h3>
+<hr />
 
 - Actualmente me encuentro centrado en **Java, Spring Boot, React JS, Angular, Javascript y Typescript**
 
