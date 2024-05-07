@@ -1,19 +1,16 @@
-<h1 align="center">Hola, soy David Fernández Comesaña</h1>
-<h3 align="center">Desarrollador FullStack en España</h3>
+<h1 align="center">Hola, soy David</h1>
+<h3 align="center">Desarrollador FullStack</h3>
 <br />
 
 - Actualmente me encuentro centrado en **Java, Spring Boot, React JS, Angular, Javascript y Typescript**
 
 - Mi portfolio: [https://personal-virtualfolio.netlify.app/](https://personal-virtualfolio.netlify.app/)
 
-- Contáctame en: **davidfernandezcomesana@gmail.com**
-
 <br />
 
 <h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-fernandez-comesaña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-fernandez-comesaña" height="30" width="40" /></a>
-<a href="https://instagram.com/david_fer_com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david_fer_com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
