@@ -16,6 +16,7 @@ Soy programador full stack con alma de diseñador web. Mis armas principales son
 - 📊 Live projects:
   - [puzzlemadriz.com](https://puzzlemadriz.com/)
   - [lafuerzadelalma.com](https://www.lafuerzadelalma.com/)
+  - [birmingallery.com](https://www.birmingallery.com/)
 
 ---
 
